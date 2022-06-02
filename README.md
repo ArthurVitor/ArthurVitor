@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Hello, my name is <a href="https://www.linkedin.com/in/arthur-vitor-046a21205/"><i>Arthur Vitor</i></a></h1>
   </a><br>
-  <p align="center">Feel free to contact me in my  <a href="https://www.linkedin.com/in/arthur-vitor-046a21205/"><i>Linkedin!
+  <p align="center">Feel free to contact me in my  <a target="_blank" href="https://www.linkedin.com/in/arthur-vitor-046a21205/"><i>Linkedin!
 </div>
 
 
