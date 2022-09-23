@@ -1,4 +1,4 @@
-<h1 align="center">Hi World, I'm Arthur</h1>
+<h1 align="center">Hello World, I'm Arthur</h1>
 <h3 align="center">A fervid backend developer from Brazil.</h3>
 <p align="left"></p>
 - 🔭 I’m currently working on a [Chatbot] (https://github.com/ArthurVitor/Chatbot)
